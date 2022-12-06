@@ -14,8 +14,8 @@ To get a local copy up and running follow these simple example steps.
 
 #### Open Terminal 
 
-    git clone git@github.com:indigodavid/ezCar_backend.git
-    cd ezCar_backend
+    git clone https://github.com/tenmark86/Maks-rentals-api.git
+    cd Maks-rentals
 
 ### Install
 
